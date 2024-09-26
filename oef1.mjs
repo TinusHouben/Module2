@@ -8,6 +8,6 @@ if(getal % 2 == 0)
 {
     console.log("Even")
 }else {
-    console.log("Oneven")
+    console.log("Oneven")  
 }
 
